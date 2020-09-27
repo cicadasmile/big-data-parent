@@ -14,7 +14,7 @@
 |:---|:---|
 |01|[大数据简介，技术体系分类整理](https://mp.weixin.qq.com/s/9myYKdAIvfvqW3W9EEZXxw)|
 |02|[Hadoop框架：单服务下伪分布式集群搭建](https://mp.weixin.qq.com/s/p73Zcj0jlWd6Xy5CHzxMJg)|
-|02|[Hadoop框架：集群模式下分布式环境搭建](https://mp.weixin.qq.com/s/Kc-nSVUzUTqsS7A8sFyQ6w)|
+|03|[Hadoop框架：集群模式下分布式环境搭建](https://mp.weixin.qq.com/s/Kc-nSVUzUTqsS7A8sFyQ6w)|
 
 #### 分布式存储系列
 
