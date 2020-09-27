@@ -1,5 +1,13 @@
 ## 一、大数据框架体系
 
+#### ZooKeeper组件
+
+|序号|文章标题|
+|:---:|:---|
+|01|[Linux搭建ZooKeeper中间件，常用命令总结](https://mp.weixin.qq.com/s/NsWZN5zScFKgBanzSg224g)|
+|02|[SpringBoot2整合Zookeeper服务协调组件](https://mp.weixin.qq.com/s/zjw-A7u-chGZhNgwuUsEPw)|
+|03|[分布式系统调度组件，Zookeeper集群化管理](https://mp.weixin.qq.com/s/Yr4A95poVjlFsQ-Q0dF7hA)|
+
 #### Hadoop框架系列
 
 |序号| 标题|
