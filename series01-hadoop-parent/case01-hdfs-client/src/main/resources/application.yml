@@ -1,0 +1,8 @@
+server:
+  port: 8001
+
+spring:
+  application:
+    name: case01-hdfs-client
+  profiles:
+    active: dev

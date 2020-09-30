@@ -1,0 +1,2 @@
+hadoop:
+  nameNode: hdfs://hop01:9000
