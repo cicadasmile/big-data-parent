@@ -1,4 +1,4 @@
-## 一、大数据框架体系
+## 大数据框架体系
 
 #### ZooKeeper组件
 
@@ -34,7 +34,7 @@
 |01|[数据源管理：基于DataX组件，同步数据和源码分析](https://mp.weixin.qq.com/s/FZz-0Q5d1ZLi4nLE2uIchQ)|
 |02|[MySQL数据全量或增量方式，向ES搜索引擎同步流程](https://mp.weixin.qq.com/s/SVS9O5WF38AYbsxQilNO4g)|
 
-## 二、关于作者
+## 关于作者
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/cicadasmile/blog-article-catalog/d9affbe553a2f8bb9df59e54eeac691b67969328/blog-image/gzhinfo.svg" alt="公众号">
@@ -47,7 +47,7 @@
 
 <img width="700px" height="270px" src="https://raw.githubusercontent.com/cicadasmile/blog-article-catalog/master/blog-image/img-gz.jpg"/><br/>
 
-## 三、推荐项目
+## 推荐项目
 
 |序号|项目名称|GitHub地址|GitEE地址|推荐指数|
 |:---|:---|:---|:---|:---|
