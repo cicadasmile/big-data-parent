@@ -17,6 +17,7 @@
 |03|[Hadoop框架：集群模式下分布式环境搭建](https://mp.weixin.qq.com/s/Kc-nSVUzUTqsS7A8sFyQ6w)|
 |04|[Hadoop框架：HDFS简介与Shell管理命令](https://mp.weixin.qq.com/s/8yrZQCJnHcmlJfD-roTlcg)|
 |05|[Hadoop框架：HDFS读写机制与API详解](https://mp.weixin.qq.com/s/1IPLcGu-oAbosEuvBSxIfQ)|
+|06|[Hadoop框架：NameNode工作机制详解](https://mp.weixin.qq.com/s/uZLRpelXVGGplzof0OTEjA)|
 
 #### 分布式存储系列
 
