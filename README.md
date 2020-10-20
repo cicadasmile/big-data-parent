@@ -18,6 +18,7 @@
 |04|[Hadoop框架：HDFS简介与Shell管理命令](https://mp.weixin.qq.com/s/8yrZQCJnHcmlJfD-roTlcg)|
 |05|[Hadoop框架：HDFS读写机制与API详解](https://mp.weixin.qq.com/s/1IPLcGu-oAbosEuvBSxIfQ)|
 |06|[Hadoop框架：NameNode工作机制详解](https://mp.weixin.qq.com/s/uZLRpelXVGGplzof0OTEjA)|
+|07|[Hadoop框架：DataNode工作机制详解](https://mp.weixin.qq.com/s/yx69B87tBcLu64NcLvl8Bg)|
 
 #### 分布式存储系列
 
