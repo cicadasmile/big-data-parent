@@ -1,0 +1,8 @@
+server:
+  port: 8001
+
+spring:
+  application:
+    name: map-reduce-case01
+  profiles:
+    active: dev

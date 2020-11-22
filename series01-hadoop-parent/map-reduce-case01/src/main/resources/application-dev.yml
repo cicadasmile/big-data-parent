@@ -1,0 +1,4 @@
+hadoop:
+  inputPath: hdfs://hop01:9000/hopdir/javaNew.txt
+  # 该路径必须是程序运行前不存在的
+  outputPath: /wordOut

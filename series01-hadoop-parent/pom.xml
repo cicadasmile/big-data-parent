@@ -17,6 +17,7 @@
 
     <modules>
         <module>case01-hdfs-client</module>
+        <module>map-reduce-case01</module>
     </modules>
 
     <!-- 版本管理 -->
