@@ -21,6 +21,7 @@
 |07|[Hadoop框架：DataNode工作机制详解](https://mp.weixin.qq.com/s/yx69B87tBcLu64NcLvl8Bg)|
 |08|[Hadoop框架：HDFS高可用环境配置](https://mp.weixin.qq.com/s/so-gUf7TLwMi6Ms_zXI9og)|
 |09|[Hadoop框架：MapReduce基本原理和入门案例](https://mp.weixin.qq.com/s/KXb9caKgJKsU5yVLsrfWDQ)|
+|10|[Hadoop框架：Yarn基本结构和运行原理](https://mp.weixin.qq.com/s/FkckoHVd1p-CoPpPALTBbw)|
 
 #### 分布式存储系列
 
