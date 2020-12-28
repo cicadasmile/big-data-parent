@@ -39,6 +39,14 @@
 |01|[数据源管理：基于DataX组件，同步数据和源码分析](https://mp.weixin.qq.com/s/FZz-0Q5d1ZLi4nLE2uIchQ)|
 |02|[MySQL数据全量或增量方式，向ES搜索引擎同步流程](https://mp.weixin.qq.com/s/SVS9O5WF38AYbsxQilNO4g)|
 
+### 数据洞察业务
+
+|序号| 标题|
+|:---|:---|
+|01 | [数据管理流程，基础入门简介](https://mp.weixin.qq.com/s/Ss3oj9zr_Be0t7vEZiMuLQ)|
+|02 | [业务场景下数据采集机制和策略](https://mp.weixin.qq.com/s/VymzX6Xtg23EjJZ-XC3HFw)|
+|03 | [数据全景洞察业务概念简介](https://mp.weixin.qq.com/s/tKfWm59NjFQJub_JJ2gshw)|
+
 ## 关于作者
 
 <p align="left">
