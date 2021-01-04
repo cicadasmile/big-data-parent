@@ -23,6 +23,12 @@
 |09|[Hadoop框架：MapReduce基本原理和入门案例](https://mp.weixin.qq.com/s/KXb9caKgJKsU5yVLsrfWDQ)|
 |10|[Hadoop框架：Yarn基本结构和运行原理](https://mp.weixin.qq.com/s/FkckoHVd1p-CoPpPALTBbw)|
 
+#### 基础组件系列
+
+|序号| 标题|
+|:---|:---|
+|01|[数据仓库组件：Hive环境搭建和基础用法](https://mp.weixin.qq.com/s/FvBLX5e_ZAnCgTgo6ShoQQ)|
+
 #### 分布式存储系列
 
 |序号| 标题|
