@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starters</artifactId>
+        <version>2.1.7.RELEASE</version>
+    </parent>
+
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.series02.hbase</groupId>
+    <artifactId>series02-hbase-parent</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <modules>
+        <module>case01-hbase-jdbc</module>
+    </modules>
+
+    <!-- 版本管理 -->
+    <properties>
+        <!-- 基础框架 -->
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+        <java.version>1.8</java.version>
+        <spring.version>5.1.5.RELEASE</spring.version>
+        <spring.boot.version>2.1.7.RELEASE</spring.boot.version>
+        <spring.cloud.version>2.0.2.RELEASE</spring.cloud.version>
+        <swagger.version>2.6.1</swagger.version>
+        <!-- 依赖版本 -->
+        <mybatisplus.version>3.0.7.1</mybatisplus.version>
+        <mybatis.version>3.4.2</mybatis.version>
+        <mybatis-starter-version>1.3.2</mybatis-starter-version>
+        <mybatis.plus.version>2.0.7</mybatis.plus.version>
+        <mapper.version>3.4.0</mapper.version>
+        <modelmapper.version>1.1.2</modelmapper.version>
+        <mapper-spring-boot.version>1.1.1</mapper-spring-boot.version>
+        <pagehelper.version>1.2.3</pagehelper.version>
+        <mybatis-generator.version>1.3.5</mybatis-generator.version>
+        <zipkin-autoconfigure.version>2.3.1</zipkin-autoconfigure.version>
+        <redis-client.version>2.9.1</redis-client.version>
+        <rocketmq.version>4.3.0</rocketmq.version>
+        <mysql.version>5.1.39</mysql.version>
+        <druid.version>1.1.13</druid.version>
+        <druid-spring.version>1.1.0</druid-spring.version>
+        <commons.lang.version>2.6</commons.lang.version>
+        <commons.fileupload.version>1.2.2</commons.fileupload.version>
+        <commons.io.version>2.5</commons.io.version>
+        <commons.codec.version>1.10</commons.codec.version>
+        <fastjson.version>1.2.47</fastjson.version>
+        <joda.time.version>2.9.9</joda.time.version>
+        <jwt.version>0.7.0</jwt.version>
+        <redis.client.version>2.9.1</redis.client.version>
+        <quartz.version>2.3.0</quartz.version>
+        <jackson.core.version>2.9.8</jackson.core.version>
+        <guava.version>RELEASE</guava.version>
+        <mail.version>1.5.0-b01</mail.version>
+        <shard-jdbc.version>3.1.0</shard-jdbc.version>
+    </properties>
+
+</project>

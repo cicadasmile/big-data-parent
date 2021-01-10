@@ -11,6 +11,7 @@
 
     <modules>
         <module>series01-hadoop-parent</module>
+        <module>series02-hbase-parent</module>
     </modules>
 
 </project>
