@@ -28,6 +28,7 @@
 |序号| 标题|
 |:---|:---|
 |01|[数据仓库组件：Hive环境搭建和基础用法](https://mp.weixin.qq.com/s/FvBLX5e_ZAnCgTgo6ShoQQ)|
+|02|[数据仓库组件：HBase集群环境搭建和应用案例](https://mp.weixin.qq.com/s/LjhBA8_VdVLxEUbcnI0mHQ)|
 
 #### 分布式存储系列
 
