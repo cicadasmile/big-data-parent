@@ -55,6 +55,7 @@
 |03 | [数据全景洞察业务概念简介](https://mp.weixin.qq.com/s/tKfWm59NjFQJub_JJ2gshw)|
 |04 | [数据应用场景之标签管理体系](https://mp.weixin.qq.com/s/rDUOsFUsWYxMj2s0m4oJow)|
 |05 | [标签管理体系之业务应用](https://mp.weixin.qq.com/s/7aEym4XEZiCFzGREtbPXXw)|
+|06 | [用户画像分析与场景应用](https://mp.weixin.qq.com/s/Hr7Rj3Xr1N4f3Q_XdPyJhg)|
 
 ## 关于作者
 
