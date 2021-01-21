@@ -56,6 +56,7 @@
 |04 | [数据应用场景之标签管理体系](https://mp.weixin.qq.com/s/rDUOsFUsWYxMj2s0m4oJow)|
 |05 | [标签管理体系之业务应用](https://mp.weixin.qq.com/s/7aEym4XEZiCFzGREtbPXXw)|
 |06 | [用户画像分析与场景应用](https://mp.weixin.qq.com/s/Hr7Rj3Xr1N4f3Q_XdPyJhg)|
+|07 | [基于业务和平台理解数字营销概念](https://mp.weixin.qq.com/s/imsT-tZItnBM0G9vP5xgAA)|
 
 ## 关于作者
 
