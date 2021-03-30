@@ -37,6 +37,7 @@
 |02|[数据仓库组件：HBase集群环境搭建和应用案例](https://mp.weixin.qq.com/s/LjhBA8_VdVLxEUbcnI0mHQ)|
 |03|[数据采集组件：Flume基础用法和Kafka集成](https://mp.weixin.qq.com/s/5_4EgIK8hzi_CSSjLMdc-g)|
 |04|[数据搬运组件：基于Sqoop管理数据导入和导出](https://mp.weixin.qq.com/s/O2vpLnx8vKgIaU0r9PBmjA)|
+|05|[数据调度组件：基于Azkaban协调时序任务执行](https://mp.weixin.qq.com/s/qIY_O0dddvvqal0Ax11WuA)|
 
 #### 分布式存储系列
 
