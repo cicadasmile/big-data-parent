@@ -13,6 +13,7 @@
         <module>series01-hadoop-parent</module>
         <module>series02-hbase-parent</module>
         <module>series03-spark-parent</module>
+        <module>series04-flink-parent</module>
     </modules>
 
 </project>
