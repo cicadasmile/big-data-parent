@@ -48,6 +48,7 @@
 |03|[数据源管理：搜索引擎框架，ElasticSearch集群模式](https://mp.weixin.qq.com/s/Qgear9nCwXn8W98SHkXJZw)|
 |04|[数据源管理：分布式NoSQL系统，Cassandra集群管理](https://mp.weixin.qq.com/s/LffhFui3YfouUAxPL_rCsg)|
 |05|[数据源管理：OLAP分析引擎，Druid数据统计分析组件](https://mp.weixin.qq.com/s/FQAPtxihA7gE2TegN_Q1pg)|
+|06|[数据源管理：OLAP分析引擎，Presto跨数据源分析](https://mp.weixin.qq.com/s/EV1RFJUmeWwF77-BDLexxw)|
 
 #### 数据搬运组件
 
