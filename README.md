@@ -57,6 +57,12 @@
 |01|[数据源管理：基于DataX组件，同步数据和源码分析](https://mp.weixin.qq.com/s/FZz-0Q5d1ZLi4nLE2uIchQ)|
 |02|[MySQL数据全量或增量方式，向ES搜索引擎同步流程](https://mp.weixin.qq.com/s/SVS9O5WF38AYbsxQilNO4g)|
 
+#### 实时计算框架
+
+|序号| 标题|
+|:---|:---|
+|01|[实时计算框架：Spark集群搭建与入门案例](https://mp.weixin.qq.com/s/_Ix5ti_KkK61fk-LuAcYug)|
+
 ### 数据洞察业务
 
 |序号| 标题|
