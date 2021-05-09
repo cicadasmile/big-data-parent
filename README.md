@@ -62,6 +62,7 @@
 |序号| 标题|
 |:---|:---|
 |01|[实时计算框架：Spark集群搭建与入门案例](https://mp.weixin.qq.com/s/_Ix5ti_KkK61fk-LuAcYug)|
+|02|[实时计算框架：Flink集群搭建与运行机制](https://mp.weixin.qq.com/s/ze97u_hoZY0CfZwrkwDkjw)|
 
 ### 数据洞察业务
 
