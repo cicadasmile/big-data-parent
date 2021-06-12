@@ -75,6 +75,7 @@
 |05 | [标签管理体系之业务应用](https://mp.weixin.qq.com/s/7aEym4XEZiCFzGREtbPXXw)|
 |06 | [用户画像分析与场景应用](https://mp.weixin.qq.com/s/Hr7Rj3Xr1N4f3Q_XdPyJhg)|
 |07 | [基于业务和平台理解数字营销概念](https://mp.weixin.qq.com/s/imsT-tZItnBM0G9vP5xgAA)|
+|08 | [数据管理：业务数据清洗，落地实现方案](https://mp.weixin.qq.com/s/LyTYc_Nnel8huNGHJImkqg)|
 
 ## 关于作者
 
